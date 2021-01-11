@@ -1,2 +1,2 @@
-# Licence-Plate-Detection-Recognition-JAVA-
+# Licence-Plate-Detection-Recognition
 LICENSE PLATE NUMBER DETECTION AND RECOGNITION USING WITH JAVA. 
