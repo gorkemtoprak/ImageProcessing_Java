@@ -1,4 +1,4 @@
-## Licence-Plate-Detection-Recognition_Java
+## ImageProcessing_Java
 
 ## Description
 
