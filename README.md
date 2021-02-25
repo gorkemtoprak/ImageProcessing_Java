@@ -2,7 +2,7 @@
 
 ## Description
 
-LICENSE PLATE NUMBER DETECTION AND RECOGNITION USING WITH JAVA. 
+Image Processing Homework for Advanced Programming.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
